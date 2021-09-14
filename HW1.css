@@ -1,0 +1,78 @@
+/*
+    Kush Patel
+    September 9, 2021
+    This is the CSS styling page. 
+*/
+
+body {
+  background-color: coral;
+  background-image: url(cheetaheyes.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 15%;
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+h2{
+  margin-bottom: -10px;
+  
+}
+
+a:link{
+  color:blue;;
+}
+
+a:hover{
+  color:green;
+}
+
+p{
+  font-size: 17px;
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+
+th {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+#tdnum1{
+  color:blue;
+}
+#tdnum2{
+  color:blue;
+}
+#tdnum3{
+  color:blue;
+}
+#tdnum4{
+  color:blue;
+}
+#tdnum5{
+  color:blue;
+}
+#tdnum6{
+  color:blue;
+}
+
+iframe{
+  width: 420px; 
+  height: 345px;
+}
+
+img{
+
+    width: 300px; 
+    height:300px;
+}
