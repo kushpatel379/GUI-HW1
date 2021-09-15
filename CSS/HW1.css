@@ -105,11 +105,12 @@ img{
 }
 
 button{
-  background-color: green;    /* tyling for the button, no border around the button and the cursor is a pointer over the button*/
+  background-color: black;    /* tyling for the button, no border around the button and the cursor is a pointer over the button*/
   border: none;
   cursor: pointer;
   padding: 10px;
   border-radius: 50%;
+  color: yellow;
 }
 
 figure{
@@ -134,6 +135,30 @@ figure{
 }
 
 #kangaroo{
+  width: 250px;
+  height: 250px;
+}
+
+#favorites{
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  width: 250px;
+  height: 250px;
+}
+
+#jaylen{
+  width: 250px;
+  height: 250px;
+}
+
+#uml{
+  width: 250px;
+  height: 250px;
+}
+
+#vegas{
   width: 250px;
   height: 250px;
 }
